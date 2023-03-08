@@ -5,15 +5,25 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+<!--   - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: 
+      text:  -->
       
   - block: v1/about
+   id: about
+    title: Background
+    content:
+    title: Background
+    interests: # <- I want to rename this into 'work'
+    - Artificial Intelligence
+    - Computational Linguistics
+    - Information Retrieval
+    username: admin
+    text: Larum Ipsum and so on...
 
       
   - block: experience
