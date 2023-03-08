@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: v1/about
-   id: about
+    id: about
     title: Background
     content:
     title: Background
