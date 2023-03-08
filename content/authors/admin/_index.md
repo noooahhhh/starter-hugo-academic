@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yucheng Fu is currently a student in the School of Cyber Science and Engineering in Sichuan University. His rearch interest include AI security, applied crypto. 
 {style="text-align: justify;"}
