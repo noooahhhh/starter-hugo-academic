@@ -5,7 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-      
   - block: v1/about
    id: about
     title: Background
@@ -16,9 +15,7 @@ sections:
     - Computational Linguistics
     - Information Retrieval
     username: admin
-    text: Larum Ipsum and so on...
-
-      
+    text: Larum Ipsum and so on...    
   - block: experience
     content:
       title: Experience
