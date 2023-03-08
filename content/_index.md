@@ -5,17 +5,13 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: v1/about
+  - block: about.avatar
     id: about
-    title: Background
     content:
-    title: Background
-    interests: # <- I want to rename this into 'work'
-    - Artificial Intelligence
-    - Computational Linguistics
-    - Information Retrieval
-    username: admin
-    text: Larum Ipsum and so on...    
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:  
   - block: experience
     content:
       title: Experience
