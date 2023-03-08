@@ -22,7 +22,6 @@ organizations:
     url: https://www.scu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-<!-- bio: My research interests include distributed robotics, mobile computing and programmable matter. -->
 
 # Interests to show in About widget
 interests:
@@ -34,11 +33,8 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: Sichuan University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
@@ -74,7 +70,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yfu2668@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
