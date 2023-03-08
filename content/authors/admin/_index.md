@@ -81,4 +81,4 @@ highlight_name: true
 ---
 
 Yucheng Fu is currently a student in the School of Cyber Science and Engineering in Sichuan University. His rearch interest include AI security, applied crypto. 
-<!-- {style="text-align: justify;"} -->
+{style="text-align: justify;"}
