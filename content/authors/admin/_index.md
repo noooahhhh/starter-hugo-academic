@@ -8,7 +8,7 @@ last_name: Fu
 
 # Status emoji
 status:
-  icon: 🥺
+  icon: 😎
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,7 +70,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yfu2668@gmail.com'
+email: 'fuyucheng@stu.scu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
