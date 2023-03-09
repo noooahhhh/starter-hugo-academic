@@ -39,7 +39,7 @@ sections:
           location: China
           date_start: '2020-09-01'
           date_end: ''
-          description: Undergraduate Student majoring in cybersecurity.
+          description: Undergraduate Student majoring in Cybersecurity.
     design:
       columns: '2'
   - block: collection
