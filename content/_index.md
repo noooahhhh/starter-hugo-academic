@@ -27,7 +27,7 @@ sections:
         - title: Undergraduate Student
           company: NUS SoC Summer Workshop
           company_url: ''
-          company_logo: org-gc
+          company_logo: nus
           location: California
           date_start: '2022-05-01'
           date_end: '2022-08-01'
@@ -35,7 +35,7 @@ sections:
         - title: Undergraduate Student
           company: Sichuan University
           company_url: ''
-          company_logo: org-x
+          company_logo: SCULogo
           location: China
           date_start: '2020-09-01'
           date_end: ''
