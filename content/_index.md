@@ -28,7 +28,7 @@ sections:
           company: NUS SoC Summer Workshop
           company_url: ''
           company_logo: nus
-          location: California
+          location: Singapore
           date_start: '2022-05-01'
           date_end: '2022-08-01'
           description: Taking the course of Vision Computing.
