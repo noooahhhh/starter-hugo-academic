@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-* TEAM LEADER
+* TEAM LEADER, 
 * C++, EMP framework
 * This project is the implementation of a working paper.
 * We designed a secure distributed version of the algorithms in a SIGMOD 2011 paper ‘Sampling Based Algorithms for Quantile Computation in Sensor Networks’.
