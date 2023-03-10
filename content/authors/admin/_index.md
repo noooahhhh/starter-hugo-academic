@@ -75,6 +75,6 @@ email: 'fuyucheng@stu.scu.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+ 
+This is Yucheng Fu. I am a third-year undergraduate student student in the School of Cyber Science and Engineering in Sichuan University. My research interests include AI security (Adversarial Attacks, Privacy in Machine Learning) and Applied Crypto, and I have had some project experience in thiese fields during my undergraduate years.
 
-Yucheng Fu is currently a student in the School of Cyber Science and Engineering in Sichuan University. His rearch interest include AI security, applied crypto. 
-{style="text-align: justify;"}
