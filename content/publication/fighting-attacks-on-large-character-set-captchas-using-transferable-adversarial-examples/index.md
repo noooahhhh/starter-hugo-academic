@@ -1,12 +1,13 @@
 ---
 title: Fighting Attacks on Large Character Set CAPTCHAs Using Transferable
   Adversarial Examples
-subtitle: In submission to IJCNN-2023, 1-st author.
+subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Yucheng FU
+  - Yucheng Fu
 author_notes: []
+publication: In submission to IJCNN-2023, 1-st author.
 draft: false
 featured: false
 image:
