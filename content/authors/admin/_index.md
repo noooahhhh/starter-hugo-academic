@@ -71,4 +71,4 @@ I am a third-year undergraduate student from the School of Cyber Science and Eng
 
 My research interests include AI security (Adversarial Attacks, Privacy in Machine Learning) and Secure Multi-party Computation. I have had some project experience in these fields during my undergraduate years. Click here to download my [resumé](uploads/resume.pdf).
 
-I’m looking for a summer research internship opportunity in Machine Learning security/privacy or Applied Cryptography. I am available to start working at any time. 
+I am looking for a summer research internship in Machine Learning Security / Privacy or Applied Cryptography, and I am available to start my work at any time.
