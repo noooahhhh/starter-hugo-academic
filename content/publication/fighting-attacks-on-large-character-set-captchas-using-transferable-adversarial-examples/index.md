@@ -7,7 +7,7 @@ publication_types:
 authors:
   - Yucheng Fu
 author_notes: []
-publication: In submission to IJCNN-2023, 1-st author.
+publication: In submission to IJCNN-2023, 1-st author
 draft: false
 featured: false
 image:
