@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - admin
-publication: " A working paper, going to submit to RAID 2023, 1st author"
+publication: " A working paper, going to submit to RAID 2023, 1-st author"
 publication_short: ""
 draft: false
 featured: false
